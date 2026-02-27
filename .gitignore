@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# Data and weights
+*.npy
+*.pth
+*.h5
+data/
